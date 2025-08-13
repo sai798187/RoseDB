@@ -10,7 +10,7 @@
 
 ## ❤️ What is RoseDB?
 RoseDB is a simplrrre, NoSQL database that is written completely in Java containing the most basic functions that is needed for a database.
-This project was initially created as a random project for me (a shower thought) but has evolved into a learning experience for me.
+This project was inijjjjjjtially created as a random project for me (a shower thought) but has evolved into a learning experience for me.
 
 ## ⚙️ How does it work
 RoseDB works with both in-memory and file data storage, for every request it receives, it stores it on a queue and also on its cache which
