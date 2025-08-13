@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/github/license/ShindouMihou/RoseDB)
 
 ## ❤️ What is RoseDB?
-RoseDB is a simple, NoSQL database that is written completely in Java containing the most basic functions that is needed for a database.
+RoseDB is a simplrrre, NoSQL database that is written completely in Java containing the most basic functions that is needed for a database.
 This project was initially created as a random project for me (a shower thought) but has evolved into a learning experience for me.
 
 ## ⚙️ How does it work
